@@ -1,4 +1,4 @@
-pylcd.py
+pyrasplcd.py
 =====
 
 This python module is designed to talk to different LCD screens using their different functions on the Raspberry Pi.  The next LCD module to be included will be the ADAFruit Serial/USB back pack LCD.
