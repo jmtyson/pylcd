@@ -11,7 +11,7 @@ from PIL import Image
 """
 Author: Jeffrey McClain Tyson
 Date: 6/27/2014
-Name: pylcd
+Name: pyrasplcd
 Purpose: This python module is used to talk to the Parallax Serial LCD module (based on the 2x16 version, 4x20 is untested).  
 Using this module you have access to the three different baud rates (2,400; 9,600; 19,200) for control of the screen.  
 Features:
