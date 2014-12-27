@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Pyserial is used to talk to the LCD using the TX.
+#Pyserial is used to talk to the LCD using the TX pin.
 import serial
 #used to pack variable number commands for serial to use
 import struct
