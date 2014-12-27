@@ -1,6 +1,5 @@
 from setuptools import setup
-#test
-#another test
+
 setup(name='pyrasplcd',
       version='0.3',
       description='Have your embedded machine print how it feels.',
