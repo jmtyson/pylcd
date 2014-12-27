@@ -30,4 +30,8 @@ save your changes.
 Restart your Raspberry Pi.
 
 Version 0.3
+<<<<<<< HEAD
 Parallax LCD is included having basic functions provided by the device.
+=======
+Parallax LCD is included having basic functions provided by the device.
+>>>>>>> bb9039c637138e6deaac30eabb0e49e00904b143
